@@ -1,0 +1,22 @@
+{
+  "name": "td1",
+  "version": "1.0.0",
+  "description": "Effectuer les exercices un par un de manière synchrone et asynchrone. Chaque exercice sera exécuté de manière synchrone et asynchrone dans un fichier `main.js` et un simple `console.log` sera fait pour montrer chaque résultat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurangevin/nodejs-td1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurangevin/nodejs-td1/issues"
+  },
+  "homepage": "https://github.com/arthurangevin/nodejs-td1#readme",
+  "dependencies": {
+    "async": "^2.3.0"
+  }
+}
